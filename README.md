@@ -1,4 +1,4 @@
-# OzTestShop
+# TestShop
 
 php min 7.0
 Laravel Framework 5.5.45
